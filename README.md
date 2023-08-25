@@ -23,13 +23,13 @@ Para utilizar este chatbot em Python, siga as etapas abaixo:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/miraceli/chatbot-faq.git)
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd seu-projeto
+   cd chatbot-faq
    ```
 
 3. Ative seu ambiente virtual (caso você esteja usando um ambiente virtual com a .env):
