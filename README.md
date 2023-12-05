@@ -1,3 +1,47 @@
+### English version
+
+```bash
+Chatbot
+This is a simple Python chatbot that responds to questions based on a predefined list of texts. It uses natural language processing (NLP) to find the most relevant response to the user's question.
+
+Features
+Text processing to remove stopwords and perform stemming.
+Calculation of similarity between the user's question and predefined texts.
+Response with the most similar found text.
+
+Setup
+Make sure you have Python installed on your system. Additionally, you'll need the libraries listed in the requirements.txt file. To install them, run:
+
+pip install -r requirements.txt
+
+Usage
+To use this Python chatbot, follow the steps below:
+
+Clone this repository to your local machine:
+
+git clone https://github.com/miraceli/chatbot-faq.git
+
+Navigate to the project directory:
+
+cd chatbot-faq
+
+Activate your virtual environment (if you're using one with .env):
+
+source .env/bin/activate
+
+Run the chatbot:
+
+python3 __main__.py
+
+Enter a question when prompted. The chatbot will respond with the best match found in the predefined texts.
+
+Predefined Texts
+The chatbot uses a list of predefined texts stored in the dataset.py file. These texts serve as a basis for responding to user questions.
+
+Contributions
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+```
+
 # Chatbot
 
 Este é um simples chatbot em Python que responde a perguntas com base em uma lista de textos pré-definidos. Ele utiliza processamento de linguagem natural (NLP) para encontrar a resposta mais relevante para a pergunta feita pelo usuário.
