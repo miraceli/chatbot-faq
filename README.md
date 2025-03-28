@@ -2,7 +2,7 @@
 
 ```bash
 Chatbot
-This is a simple Python chatbot that responds to questions based on a predefined list of texts. It uses natural language processing (NLP) to find the most relevant response to the user's question.
+This is a simple Python chatbot that responds to questions based on a predefined list of texts. It uses natural language processing (NLP) to find the most relevant response to the user's question. The objective is to exemplify how an LLM works and the main NLP concepts.
 
 Features
 Text processing to remove stopwords and perform stemming.
